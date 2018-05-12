@@ -1,0 +1,33 @@
+_repo: A-Floral-Fantasy-in-an-Old-English-Garden_24485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+description: ''
+gutenberg_bookshelf:
+- Children's Verse
+- Horticulture
+gutenberg_issued: '2008-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flowers -- Juvenile poetry'
+- !lcc 'NC'
+- !lcsh 'Gardens, English -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Fairy poetry'
+title: A Floral Fantasy in an Old English Garden
+url: http://www.gutenberg.org/ebooks/24485
